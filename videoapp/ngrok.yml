@@ -1,0 +1,6 @@
+authtoken: 2R4pbIQEzQdl5GJXo5Ul8c1PoRo_BH4E9T6ySRQ1DHFDQiJw
+tunnels:
+    proto: http
+    addr: 5500
+  region: us
+
